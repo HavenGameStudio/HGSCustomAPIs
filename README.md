@@ -7,6 +7,8 @@ Topdown 2D game Api Includes
 4. Feedback System: Handles the feedback whenever the developer wishes it. Mainly plays in Health.cs, CharacterAbilities and Weapon.
 5. AI Brain: This behavior tree functions as the AI’s brain, guiding its decision-making processes and overall behavior.
 6. AIAction and AIDecision: AI Action: Represents the execution of specific tasks or behaviors within the AI system, triggered by predefined conditions. AI Decision: Governs the AI’s reasoning process, determining the most appropriate actions based on context and input.
-7. 
+
+
+NOTE: THE GAME SAMPLE USED TO MAKE THIS API IS STILL UNDER DEVELOPMENT. THERE WILL BE SOME MODIFICATION OR EDITS IN THIS SCRIPTS.
 
 
