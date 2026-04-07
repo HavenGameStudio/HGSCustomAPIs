@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace HGS.AnimationTools
+namespace HGS.LastBastion
 {
     public class AnimatorHelper
     {
