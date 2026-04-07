@@ -2,7 +2,7 @@ using UnityEditor;
 using UnityEditor.Animations;
 using UnityEngine;
 
-namespace HGS.LastBastion
+namespace HGS.AnimationTools
 {
     [CustomEditor(typeof(AnimatorParameterInitializer), true)]
     [CanEditMultipleObjects]

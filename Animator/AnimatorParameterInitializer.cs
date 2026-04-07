@@ -3,7 +3,7 @@ using HGS.Tools;
 using UnityEditor.Animations;
 using UnityEngine;
 
-namespace HGS.LastBastion
+namespace HGS.AnimationTools
 {
     [RequireComponent(typeof(Animator))]
     public class AnimatorParameterInitializer : MonoBehaviour
